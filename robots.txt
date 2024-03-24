@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: farahmllh.github.io/sitemap.xml
+Sitemap: farahmallah.github.io/sitemap.xml
